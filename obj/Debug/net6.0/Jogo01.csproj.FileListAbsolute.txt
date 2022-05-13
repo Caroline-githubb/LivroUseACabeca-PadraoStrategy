@@ -1,0 +1,15 @@
+/home/carol/Visual Studio/UseACabeca/Jogo01/bin/Debug/net6.0/Jogo01
+/home/carol/Visual Studio/UseACabeca/Jogo01/bin/Debug/net6.0/Jogo01.deps.json
+/home/carol/Visual Studio/UseACabeca/Jogo01/bin/Debug/net6.0/Jogo01.runtimeconfig.json
+/home/carol/Visual Studio/UseACabeca/Jogo01/bin/Debug/net6.0/Jogo01.dll
+/home/carol/Visual Studio/UseACabeca/Jogo01/bin/Debug/net6.0/Jogo01.pdb
+/home/carol/Visual Studio/UseACabeca/Jogo01/obj/Debug/net6.0/Jogo01.csproj.AssemblyReference.cache
+/home/carol/Visual Studio/UseACabeca/Jogo01/obj/Debug/net6.0/Jogo01.GeneratedMSBuildEditorConfig.editorconfig
+/home/carol/Visual Studio/UseACabeca/Jogo01/obj/Debug/net6.0/Jogo01.AssemblyInfoInputs.cache
+/home/carol/Visual Studio/UseACabeca/Jogo01/obj/Debug/net6.0/Jogo01.AssemblyInfo.cs
+/home/carol/Visual Studio/UseACabeca/Jogo01/obj/Debug/net6.0/Jogo01.csproj.CoreCompileInputs.cache
+/home/carol/Visual Studio/UseACabeca/Jogo01/obj/Debug/net6.0/Jogo01.dll
+/home/carol/Visual Studio/UseACabeca/Jogo01/obj/Debug/net6.0/refint/Jogo01.dll
+/home/carol/Visual Studio/UseACabeca/Jogo01/obj/Debug/net6.0/Jogo01.pdb
+/home/carol/Visual Studio/UseACabeca/Jogo01/obj/Debug/net6.0/Jogo01.genruntimeconfig.cache
+/home/carol/Visual Studio/UseACabeca/Jogo01/obj/Debug/net6.0/ref/Jogo01.dll
